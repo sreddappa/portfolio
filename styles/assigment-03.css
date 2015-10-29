@@ -1,0 +1,53 @@
+body {
+  background-color: beige;
+  }
+h1 {
+  color:chocolate;
+  text-shadow: 2px 2px orange;
+  text-align: center;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  background-color: cornsilk;
+ }
+h2.highlight{
+  color: darkolivegreen;
+}
+h3.highlight{
+  color: green;
+}
+h3.author-highlight{
+  color: mediumseagreen;
+  font-style: italic;
+}
+p {
+  page-break-before: auto;
+  padding-left: 50px;
+}
+a {
+    display: block;
+    width: 200px;
+}
+li {
+  display: inline;
+  text-align: justify;
+}
+a:hover{
+  color: blueviolet;
+  font-size: 2em;
+}
+a:visited{
+  text-decoration: none;}
+}
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
+footer{
+  border: 1px solid orange;
+  background-color: cornsilk;
+}
+
+
